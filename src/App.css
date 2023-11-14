@@ -7,3 +7,18 @@ h3 {
   font-size: 0.8rem;
   color: chocolate;
 }
+header {
+  padding: 3rem;
+  background-color: aqua;
+  color: blueviolet;
+}
+footer {
+  /* position: absolute; */
+  /* bottom: 0; */
+  background-color: black;
+  color: white;
+  width: 100%;
+  padding: 5rem;
+  text-align: center;
+  font-size: 2rem;
+}
