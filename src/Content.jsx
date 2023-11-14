@@ -1,3 +1,4 @@
+import "./Content.css";
 const Content = () => {
   const parStyle = {
     fontFamily: "tahoma",
@@ -28,6 +29,7 @@ const Content = () => {
       <p style={parStyle}>
         Lorem ipsum dolor sit, amet consectetur adipisicing.
       </p>
+      <h3>this is h3 tag</h3>
     </main>
   );
 };
